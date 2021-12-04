@@ -1,4 +1,8 @@
-## Hey there!! 👋
+
+ <!-- welcome message -->
+ <h2>Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  
+ <h3>Glad to see you here!</h3>
 
 
 ####  I am Harshit Pachori, 2nd year CSE student. I love exploring new technologiesand building cool automation projects. I also like to meet new peoples and work with them.   ####
@@ -34,10 +38,11 @@
 
 
 ## ✉️ Find me on:
+
 <p align="center">
- <a href="https://HarshitPachori.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/harshit-pachori-a153a4222" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:harshitpachori345@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/harshitpachauri345" target="blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px" /></a>
+ <a href="https://linkedin.com/in/harshit-pachori-a153a4222" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:harshitpachori345@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
