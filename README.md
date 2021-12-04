@@ -3,6 +3,10 @@
  <h2>Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   
  <h3>Glad to see you here!</h3>
+  
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
+[![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
 
 
 ####  I am Harshit Pachori, 2nd year CSE student. I love exploring new technologies and building cool automation projects. I also like to meet new peoples and work with them.   ####
@@ -47,9 +51,6 @@
 
 <br />
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
-[![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
 
 
 
