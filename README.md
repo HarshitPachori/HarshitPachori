@@ -5,7 +5,7 @@
  <h3>Glad to see you here!</h3>
 
 
-####  I am Harshit Pachori, 2nd year CSE student. I love exploring new technologiesand building cool automation projects. I also like to meet new peoples and work with them.   ####
+####  I am Harshit Pachori, 2nd year CSE student. I love exploring new technologies and building cool automation projects. I also like to meet new peoples and work with them.   ####
 
 
 
