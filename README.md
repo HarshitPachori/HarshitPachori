@@ -4,9 +4,11 @@
   
  <h3>Glad to see you here!</h3>
   
-  
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+ 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
 [![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
+<a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
 
 
 ####  I am Harshit Pachori, 2nd year CSE student. I love exploring new technologies and building cool automation projects. I also like to meet new peoples and work with them.   ####
@@ -26,6 +28,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&theme=tokyonight)
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/HarshitPachori?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -41,17 +47,13 @@
 
 
 
-## ✉️ Find me on:
+## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 <p align="center">
- <a href="https://www.instagram.com/harshitpachauri345" target="blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px" /></a>
- <a href="https://linkedin.com/in/harshit-pachori-a153a4222" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/harshitpachauri345" target="blank"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px" /></a>
+ <a href="https://linkedin.com/in/harshit-pachori-a153a4222" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:harshitpachori345@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
-
-
-
-
 
