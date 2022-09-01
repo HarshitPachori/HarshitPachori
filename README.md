@@ -28,38 +28,77 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Reading and Gaming
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=vision-friendly-dark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/HarshitPachori?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
+<img src="/github-metrics.svg" alt="Metrics" align="right"/>
+<script src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0.js"></script>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitPachori&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## 🧰 Languages and Tools:
-<div>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> &nbsp
 
+<a href = "https://www.dart.dev">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/dart.png" width="50"/>
+</a>
+<a href = "https://flutter.dev">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/flutter.png" width="50"/>
+</a>
+<a href = "https://www.python.org">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/python.png" width="50"/>
+</a>
+<a href = "https://www.java.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/java.png" width="50"/>
+</a>
+
+<a href = "https://developer.android.com/studio">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/android_studio.png" width="50"/>
+</a>
+<a href = "https://www.jetbrains.com/idea">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/intellij_idea.png" width="50"/>
+</a>
+
+<a href = "https://github.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
+</a>
+<a href = "https://firebase.google.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/firebase.png" width="50"/>
+</a>
+
+<a href = "https://visualstudio.microsoft.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio.png" width="50"/>
+</a>
+<a href = "https://code.visualstudio.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio_code.png" width="50"/>
+</a>
+<a href = "https://icons8.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/icons8.png" width="50"/>
+</a>
+
+<a href = "https://git-scm.com">
+<img src="https://dileepabandara.github.io/public-images/gh-rm-t/git.png" width="50"/>
+</a>
 </div>
 
 
 
 ## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-<p align="center">
- <a href="https://www.instagram.com/harshitpachauri345" target="blank"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px" /></a>
- <a href="https://linkedin.com/in/harshit-pachori-a153a4222" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+
+[![GitHub](https://dileepabandara.github.io/public-images/tools-and-technologies/github_32px.png)](https://github.com/HarshitPachori)
+[![LinkedIn](https://dileepabandara.github.io/public-images/tools-and-technologies/linkedin_32px.png)](https://linkedin.com/in/harshit-pachori345)
+[![Twitter](https://dileepabandara.github.io/public-images/tools-and-technologies/twitter_32px.png)](https://twitter.com/HarshitPachori7)
+[![Facebook](https://dileepabandara.github.io/public-images/tools-and-technologies/facebook_32px.png)](https://www.facebook.com/harshit.pachori.94)
+[![Instagram](https://dileepabandara.github.io/public-images/tools-and-technologies/instagram_32px.png)](https://www.instagram.com/harshitpachauri345) 
+
+
  <a href="mailto:harshitpachori345@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 <br />
 
