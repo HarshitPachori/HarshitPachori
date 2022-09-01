@@ -5,6 +5,7 @@
  <h3>Glad to see you here!</h3>
   
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
 [![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
@@ -36,8 +37,8 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/HarshitPachori?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-<img src="/github-metrics.svg" alt="Metrics" align="right"/>
-<script src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0.js"></script>
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitPachori&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -97,7 +98,8 @@
 [![Instagram](https://dileepabandara.github.io/public-images/tools-and-technologies/instagram_32px.png)](https://www.instagram.com/harshitpachauri345) 
 
 
- <a href="mailto:harshitpachori345@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+
+ <a href="mailto:harshitpachori345@gmail.com"> <img src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail" height="32" style="vertical-align:top; margin:4px"></a>
 
 
 <br />
