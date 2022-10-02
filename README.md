@@ -2,13 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Harshit Pachori</h1>
-          <h3 align ="center">Glad to see you here!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpachori&label=Views&color=blue&style=plastic&style=for-the-badge" alt="harshit" /> </p>
-  
+          <h3 align ="center">Glad to see you here!</h3>  
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
- 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
 [![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
 <a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
@@ -91,7 +87,7 @@
 
 
 
-## ✉️ 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## ✉ How to reach me :
 
 [![GitHub](https://dileepabandara.github.io/public-images/tools-and-technologies/github_32px.png)](https://github.com/HarshitPachori)
 [![LinkedIn](https://dileepabandara.github.io/public-images/tools-and-technologies/linkedin_32px.png)](https://linkedin.com/in/harshit-pachori345)
