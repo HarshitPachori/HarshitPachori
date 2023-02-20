@@ -1,3 +1,4 @@
+[![Portfolio](https://github.com/HarshitPachori/harshit_portfolio/blob/main/assets/assets/portfolio.png)](https://www.harshitpachori.netlify.app)
  <h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
          alt="Waving hand animated gif"
          height="45"
