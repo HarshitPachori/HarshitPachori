@@ -45,6 +45,8 @@
 
 [![HarshitPachori's GitHub | Topics](https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark)](https://quine.sh)
 
+[![HarshitPachori's Stack Overflow | Stats](https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark)](https://quine.sh)
+
 
 
 ## 📟 GitHub Stats
