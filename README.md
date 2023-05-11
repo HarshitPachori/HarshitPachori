@@ -37,6 +37,16 @@
 </p>
 <hr>
 
+
+[![HarshitPachori's GitHub | Stats](https://stats.quine.sh/HarshitPachori/github?theme=dark)](https://quine.sh)
+
+
+[![HarshitPachori's GitHub | Languages](https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark)](https://quine.sh)
+
+[![HarshitPachori's GitHub | Topics](https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark)](https://quine.sh)
+
+
+
 ## 📟 GitHub Stats
 <br>
 <p align="center">
