@@ -33,7 +33,7 @@
 ## 💳 Github Profile Summary Card
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpachori&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=github_dark"/>
 </p>
 <hr>
 
@@ -53,8 +53,8 @@
 ## 📟 GitHub Stats
 <br>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitpachori&show_icons=true&theme=vision-friendly-dark" /> 
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpachori&show_icons=true&theme=vision-friendly-dark" /> 
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=vision-friendly-dark" /> 
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&show_icons=true&theme=vision-friendly-dark" /> 
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" />
 
 </p>
