@@ -14,7 +14,6 @@
 </div>
 
 ## About me :sparkles:
-<br>
 
 ####  I am Harshit Pachori, 3rd year CSE student. I love exploring new technologies and building cool automation projects. I also like to meet new peoples and work with them.   ####
 
