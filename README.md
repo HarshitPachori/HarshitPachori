@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
+
 <h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
          alt="Waving hand animated gif"
          height="45"
@@ -10,7 +12,8 @@
 <a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+	
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
 </div>
 
 ## About me :sparkles:
@@ -28,33 +31,32 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Reading and Gaming
 <hr>
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+</p>
 
 ## 💳 Github Profile Summary Card
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=vision_friendly_dark"/>
 </p>
 <hr>
 
-
-[![HarshitPachori's GitHub | Stats](https://stats.quine.sh/HarshitPachori/github?theme=dark)](https://quine.sh)
-
-
-[![HarshitPachori's GitHub | Languages](https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark)](https://quine.sh)
-
-[![HarshitPachori's GitHub | Topics](https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark)](https://quine.sh)
-
-[![HarshitPachori's Stack Overflow | Stats](https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark)](https://quine.sh)
-
-
-
+<p align="center">
+<!-- 	<img src="https://stats.quine.sh/HarshitPachori/github?theme=dark"/> -->
+	<img src="https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark"/>
+	<img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark"/>
+<!-- 	<img src="https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark"/> -->
+</p>
 
 ## 📟 GitHub Stats
 <br>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=vision-friendly-dark" /> 
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&show_icons=true&theme=vision-friendly-dark" /> 
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" />
+	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" /> 
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" /> 
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" />
 
 </p>
 <hr>
@@ -62,72 +64,68 @@
 ## 🧰 Languages and Tools:
 <br>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-E31337.svg?style=for-the-badge&logo=Hive&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![Google analytics](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white) ![Google admob](https://img.shields.io/badge/Google%20AdMob-EA4335.svg?style=for-the-badge&logo=Google-AdMob&logoColor=white)
+<p align="center">
+	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+	<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+	<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" />
+	<img src="https://img.shields.io/badge/Hive-E31337.svg?style=for-the-badge&logo=Hive&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
+	<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google%20AdMob-EA4335.svg?style=for-the-badge&logo=Google-AdMob&logoColor=white" />
+</p>
 
-![Hackerrank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Hackerearth](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)
-![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
-![Gfg](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)
-![Buy me a coffee!](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)
+<p align="center">
+	<img  src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+	<img  src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white"/>
+	<img  src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+	<img  src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+	<img  src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"/>
+</p>
+
 <hr>
-<a href = "https://www.dart.dev">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/dart.png" width="50"/>
-</a>
-<a href = "https://flutter.dev">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/flutter.png" width="50"/>
-</a>
-<a href = "https://www.python.org">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/python.png" width="50"/>
-</a>
-<a href = "https://www.java.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/java.png" width="50"/>
-</a>
 
-<a href = "https://developer.android.com/studio">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/android_studio.png" width="50"/>
-</a>
-<a href = "https://www.jetbrains.com/idea">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/intellij_idea.png" width="50"/>
-</a>
-
-<a href = "https://github.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/github.png" width="50"/>
-</a>
-<a href = "https://firebase.google.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/firebase.png" width="50"/>
-</a>
-
-<a href = "https://visualstudio.microsoft.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio.png" width="50"/>
-</a>
-<a href = "https://code.visualstudio.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/visual_studio_code.png" width="50"/>
-</a>
-<a href = "https://icons8.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/icons8.png" width="50"/>
-</a>
-
-<a href = "https://git-scm.com">
-<img src="https://dileepabandara.github.io/public-images/gh-rm-t/git.png" width="50"/>
-</a>
-</div>
-
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=c,java,spring,mysql,mongodb,react,redux,tailwind,vite,gradle,maven,hibernate,postgres,cpp,python,flutter,dart,kotlin,firebase,vscode,postman,stackoverflow,androidstudio,netlify,idea,eclipse,html,css,js,nodejs,jquery,bootstrap,git,github,vercel,gitlab,discord,docker,kubernetes,latex,webpack,appwrite,babel,cloudflare,codepen" />
+</p>
 <hr>
 
 ## ✉ How to reach me :
-<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HarshitPachori)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harshit-pachori345)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HarshitPachori7)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/harshit.pachori.94)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/harshitpachauri345) 
- <a href="mailto:harshitpachori345@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" height="32" style="vertical-align:top; margin:4px"></a>
-<br />
+<p align="center">
+	<a href="https://github.com/HarshitPachori">
+		<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+	</a>
+	<a href="https://linkedin.com/in/harshit-pachori345">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/HarshitPachori7">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+	</a>
+	<a href="https://www.facebook.com/harshit.pachori.94">
+		<img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/harshitpachauri345">
+		<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="mailto:harshitpachori345@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+	</a>
+</p>
 
 <div align="center">
-
+	
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
