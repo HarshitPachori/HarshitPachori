@@ -40,7 +40,7 @@
 ## 💳 Github Profile Summary Card
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=vision_friendly_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&layout=compact&show_icons=true&theme=vision_friendly_dark"/>
 </p>
 <hr>
 
