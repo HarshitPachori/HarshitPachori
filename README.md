@@ -22,9 +22,8 @@
 
 
 
-- 🔭 I’m currently working on Flutter Project
-- 🌱 I’m currently learning Flutter and Firebase
-- 👯 I’m looking to collaborate on any Mobile App Idea
+- 🔭 I’m currently learning Java Full Stack using Spring boot ( web and microservices ).
+- 👯 I’m looking to collaborate on any Mobile  or Web App Idea
 - 🤔 I’m looking for help with Data Structures And Algorithms
 - 💬 Ask me about any Tech related stuff
 - 📫 Reach out to me for any project ideas and i would love to collaborate
