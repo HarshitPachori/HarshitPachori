@@ -43,14 +43,19 @@
 </p>
 <hr>
 
+## 💻 Hacktoberfest 2022 & 2023 Digital Swags collection
+
+[![An image of @harshitpachori's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitpachori)](https://holopin.io/@harshitpachori)
+ <hr>
+
+
+## 📟 GitHub Stats
 <p align="center">
 <!-- 	<img src="https://stats.quine.sh/HarshitPachori/github?theme=dark"/> -->
 	<img src="https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark"/>
 	<img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark"/>
 <!-- 	<img src="https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark"/> -->
 </p>
-
-## 📟 GitHub Stats
 <br>
 <p align="center">
 	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" /> 
