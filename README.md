@@ -25,6 +25,7 @@
 - 🔭 I’m currently learning Java Full Stack using Spring boot ( web and microservices ).
 - 👯 I’m looking to collaborate on any Mobile  or Web App Idea
 - 🤔 I’m looking for help with Data Structures And Algorithms
+- 💯 I do Problem Solving on the platforma like LeetCode (150+ questions) and GeeksForGeeks (600+ questions) and some questions on hackerrank and coding ninjas as well.
 - 💬 Ask me about any Tech related stuff
 - 📫 Reach out to me for any project ideas and i would love to collaborate
 - 😄 Pronouns: He/Him
