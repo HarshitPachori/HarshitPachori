@@ -18,9 +18,7 @@
 
 ## About me :sparkles:
 
-####  I am Harshit Pachori, final year CSE student. I love exploring new technologies and building cool automation projects. I am a proficient Java Full Stack Developer and have knowledge of technologies like Java 8, Spring Boot, Spring Security, MySQL, ReactJs, Javascript, TailwindCSS, Maven, JUnit5 , Mockito, TestContainers, MongoDB, ExpressJs, Docker and Github Actions Workflows.
-I have also created various projects using these technologies whoch you can see in my repository section. 
-I also like to meet new peoples and work with them.   ####
+####  I am Harshit Pachori, final year CSE student. I love exploring new technologies and building cool automation projects. I am a proficient Java Full Stack Developer and have knowledge of technologies like Java 8, Spring Boot, Spring Security, MySQL, ReactJs, Javascript, TailwindCSS, Maven, JUnit5 , Mockito, TestContainers, MongoDB, ExpressJs, Docker and Github Actions Workflows. I have also created various projects using these technologies whoch you can see in my repository section. I also like to meet new peoples and work with them.   ####
 
 
 
