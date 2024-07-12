@@ -62,8 +62,8 @@
 	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" /> 
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" /> 
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&show_icons=true&theme=vision-friendly-dark" />
-
 </p>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=HarshitPachori&limit=5&theme=vision-friendly-dark&layout=compact&combine_all_yearly_contributions=true" /></p>
 <hr>
 
 ## 🧰 Languages and Tools:
