@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
+
 
 <h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
          alt="Waving hand animated gif"
@@ -12,8 +12,8 @@
 <a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
 
 <div align="center">
-	
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
+	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 ## About me :sparkles:
