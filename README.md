@@ -59,11 +59,13 @@
 </p>
 <br>
 <p align="center">
-	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&layout=compact&show_icons=true&theme=react" /> 
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&layout=compact&show_icons=true&theme=black-ice" /> 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&show_icons=true&theme=react" />
+	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react" /> 
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&show_icons=true&theme=black-ice" /> 
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&show_icons=true&theme=react" />
+<img src="https://github-contributor-stats.vercel.app/api?username=HarshitPachori&theme=react&combine_all_yearly_contributions=true&limit=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=react&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=HarshitPachori&theme=react&layout=compact&combine_all_yearly_contributions=true" /></p>
+
 <hr>
 
 ## 🧰 Languages and Tools:
