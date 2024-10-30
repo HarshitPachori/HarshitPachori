@@ -18,7 +18,7 @@
 
 ## About me :sparkles:
 
-####  I am Harshit Pachori, final year CSE student. I love exploring new technologies and building cool automation projects. I am a proficient Java Full Stack Developer and have knowledge of technologies like Java 8, Spring Boot, Spring Security, MySQL, ReactJs, Javascript, TailwindCSS, Maven, JUnit5 , Mockito, TestContainers, MongoDB, ExpressJs, Docker and Github Actions Workflows. I have also created various projects using these technologies whoch you can see in my repository section. I also like to meet new peoples and work with them.   ####
+####  I am Harshit Pachori, a recent graduate software engineer. I love exploring new technologies and building cool automation projects. I am a proficient Java Full Stack Developer and have knowledge of technologies like Java 8, Spring Boot, Spring Security, MySQL, ReactJs, Javascript, TailwindCSS, Maven, JUnit5 , Mockito, TestContainers, MongoDB, ExpressJs, Docker and Github Actions Workflows. I have also created various projects using these technologies whoch you can see in my repository section. I also like to meet new peoples and work with them.   ####
 
 
 
@@ -44,7 +44,7 @@
 </p>
 <hr>
 
-## 💻 Hacktoberfest 2022 & 2023 Digital Swags collection
+## 💻 Hacktoberfest 2022 & 2023 & 2024 Digital Swags collection
 
 [![An image of @harshitpachori's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitpachori)](https://holopin.io/@harshitpachori)
  <hr>
@@ -61,7 +61,7 @@
 <p align="center">
 	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react" /> 
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&show_icons=true&theme=black-ice" /> 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&show_icons=true&theme=react" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&show_icons=true&theme=react&compact=true" />
 <img src="https://github-contributor-stats.vercel.app/api?username=HarshitPachori&theme=react&combine_all_yearly_contributions=true&limit=5" />
 <img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=react&no-frame=false&no-bg=true&margin-w=4" />
 </p>
@@ -114,7 +114,7 @@
 	<a href="https://github.com/HarshitPachori">
 		<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 	</a>
-	<a href="https://linkedin.com/in/harshit-pachori345">
+	<a href="https://linkedin.com/in/harshitpachori">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 	</a>
 	<a href="https://twitter.com/HarshitPachori7">
