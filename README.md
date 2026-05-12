@@ -4,7 +4,11 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Harshit Pachori</h1>
-          <h3 align ="center">Glad to see you here!</h3>  
+		  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Java+%26+Spring+Expert;Open+Source+Advocate;Clean+Code+Lover;Always+Learning" alt="Typing SVG" />
+</p>
+
+
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
@@ -12,37 +16,75 @@
 <a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
 
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"/>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="400"/>
+	&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+</div>
+<br/>
+<!-- About Me + Coding GIF -->
+<table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 20px; border: 1px solid #30363d;">
+  <tr>
+    <td width="60%" style="padding: 20px;">
+      <h2 style="color: #58a6ff;">👨‍💻 About Me</h2>
+      <p style="font-size: 16px; line-height: 1.5;">I'm <strong> Harshit Pachori</strong>, a passionate software engineer who loves building cool things with code. I specialize in <strong>Java Full Stack Development</strong> and enjoy creating automation projects that make life easier.</p>
+      <ul style="font-size: 15px;">
+        <li>🔭 Currently deep diving into <strong>Spring Boot Microservices</strong></li>
+        <li>🤝 Open to collaborating on <strong>Mobile & Web Apps</strong></li>
+        <li>📚 Improving <strong>Data Structures & Algorithms</strong></li>
+        <li>⚡ Fun fact: I love <strong>Reading</strong> and <strong>Gaming</strong></li>
+      </ul>
+      <h3 style="color: #58a6ff;">📊 Problem Solving</h3>
+      <ul style="font-size: 15px;">
+        <li><strong>LeetCode:</strong> 150+ solved</li>
+        <li><strong>GeeksForGeeks:</strong> 600+ solved</li>
+        <li><strong>HackerRank & Coding Ninjas:</strong> Active participant</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="padding: 20px;">
+      <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="280" />
+    </td>
+   </tr>
+</table>
+
+<br/>
+
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+</p>
+
+<br/>
+
+
+<!-- GitHub Analytics (Clean Cards) -->
+<h2 align="center" style="color: #58a6ff;">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=react" width="90%" />
 </div>
 
-## About me :sparkles:
+<table align="center" width="90%">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&theme=react&hide_border=true&background=0d1117" /></td>
+    <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&theme=react&hide_border=true&bg_color=0d1117" /></td>  
+  </tr>
+	 <tr>
+    <td align="center"><img src="https://github-contrib-stats.vercel.app/harshitpachori/created.svg" /></td>
+    <td align="center"><img src="https://github-contrib-stats.vercel.app/harshitpachori/contributed.svg" /></td>
+  </tr>
+</table>
 
-####  I am Harshit Pachori, a recent graduate software engineer. I love exploring new technologies and building cool automation projects. I am a proficient Java Full Stack Developer and have knowledge of technologies like Java 8, Spring Boot, Spring Security, MySQL, ReactJs, Javascript, TailwindCSS, Maven, JUnit5 , Mockito, TestContainers, MongoDB, ExpressJs, Docker and Github Actions Workflows. I have also created various projects using these technologies whoch you can see in my repository section. I also like to meet new peoples and work with them.   ####
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitPachori&theme=react-dark&hide_border=true&area=true" width="90%" />
+</div>
 
-
-
-- 🔭 I’m currently learning Java Full Stack using Spring boot ( web and microservices ).
-- 👯 I’m looking to collaborate on any Mobile  or Web App Idea
-- 🤔 I’m looking for help with Data Structures And Algorithms
-- 💯 I do Problem Solving on the platforma like LeetCode (150+ questions) and GeeksForGeeks (600+ questions) and some questions on hackerrank and coding ninjas as well.
-- 💬 Ask me about any Tech related stuff
-- 📫 Reach out to me for any project ideas and i would love to collaborate
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Reading and Gaming
-<hr>
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-</p>
-
-## 💳 Github Profile Summary Card
-<br>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&layout=compact&show_icons=true&theme=react"/>
-</p>
-<hr>
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</div>
 
 <!-- ## 💻 Hacktoberfest 2022 & 2023 & 2024 Digital Swags collection
 
@@ -59,16 +101,64 @@
 	<img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark"/>
 <!-- 	<img src="https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark"/> -->
 </p>
-<br>
-<p align="center">
-	<img  src="https://github-readme-stats.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react" /> 
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&show_icons=true&theme=black-ice" /> 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitPachori&show_icons=true&theme=react&compact=true" />
-<img src="https://github-contributor-stats.vercel.app/api?username=HarshitPachori&theme=react&combine_all_yearly_contributions=true&limit=5" />
-<img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=react&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 
 <hr>
+
+<!-- Featured Projects (Showcase) -->
+<h2 align="center" style="color: #58a6ff;">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+        <h3 align="center">📱 Flutter Mobile App</h3>
+        <p align="center">Cross‑platform app with Firebase backend</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        </p>
+        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
+      </td>
+      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+        <h3 align="center">☕ Spring Boot + React</h3>
+        <p align="center">Full‑stack app with JWT authentication</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+        </p>
+        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+        <h3 align="center">🐳 Microservices Demo</h3>
+        <p align="center">E‑commerce backend with Docker & Kubernetes</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
+      </td>
+      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+        <h3 align="center">🤖 CI/CD Automation</h3>
+        <p align="center">GitHub Actions + TestContainers pipeline</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ## 🧰 Languages and Tools:
 <br>
