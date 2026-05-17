@@ -226,6 +226,9 @@
 <div align="center">
 	
 ### Show some ❤️ by starring some of the repositories!
-
+![Snake animation](https://raw.githubusercontent.com/HarshitPachori/HarshitPachori/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
 
