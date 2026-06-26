@@ -1,65 +1,154 @@
-
-
-<h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Harshit Pachori</h1>
-		  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Java+%26+Spring+Expert;Open+Source+Advocate;Clean+Code+Lover;Always+Learning" alt="Typing SVG" />
-</p>
-
-
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
-[![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
-<a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
-
-<div align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="400"/>
-	&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
-</div>
-<br/>
-<!-- About Me + Coding GIF -->
-<table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 20px; border: 1px solid #30363d;">
-  <tr>
-    <td width="60%" style="padding: 20px;">
-      <h2 style="color: #58a6ff;">👨‍💻 About Me</h2>
-      <p style="font-size: 16px; line-height: 1.5;">I'm <strong> Harshit Pachori</strong>, a passionate software engineer who loves building cool things with code. I specialize in <strong>Java Full Stack Development</strong> and enjoy creating automation projects that make life easier.</p>
-      <ul style="font-size: 15px;">
-        <li>🔭 Currently deep diving into <strong>Spring Boot Microservices</strong></li>
-        <li>🤝 Open to collaborating on <strong>Mobile & Web Apps</strong></li>
-        <li>📚 Improving <strong>Data Structures & Algorithms</strong></li>
-        <li>⚡ Fun fact: I love <strong>Reading</strong> and <strong>Gaming</strong></li>
-      </ul>
-      <h3 style="color: #58a6ff;">📊 Problem Solving</h3>
-      <ul style="font-size: 15px;">
-        <li><strong>LeetCode:</strong> 150+ solved</li>
-        <li><strong>GeeksForGeeks:</strong> 600+ solved</li>
-        <li><strong>HackerRank & Coding Ninjas:</strong> Active participant</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" style="padding: 20px;">
-      <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="280" />
-    </td>
-   </tr>
-</table>
-
-<br/>
-
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35" width="35" /> I'm Harshit Pachori
+</h1>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
-	<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=70&lines=Backend+%26+Distributed+Systems+Engineer;Cloudflare+Edge+%26+AWS+Specialist;Event-Driven+Pipeline+Architect;Stripe+Certified+Associate+Architect;Full+Stack+Engineer" alt="Typing SVG" />
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/harshitpachori">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://harshitpachoriportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:harshitpachori345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/harshitpachori345">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/harshitpachori">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori" />
+  <img src="https://img.shields.io/github/followers/HarshitPachori?label=Followers&style=social" />
+</p>
 
-<!-- GitHub Analytics (Clean Cards) -->
-<h2 align="center" style="color: #58a6ff;">📈 GitHub Analytics</h2>
+---
+
+## 👨‍💻 About Me
+
+```
+🏢 SDE-1 @ Solvative — Backend & Distributed Systems Engineer
+⚡ Specializing in Cloudflare Edge, AWS, and event-driven data pipelines
+🏆 Stripe Certified Associate Architect
+🌍 Open to remote Backend, Platform, and Payments Infrastructure roles
+📍 Aligarh, India
+```
+
+- Architected **bidirectional event sync engines** replicating CRM states to Klaviyo using Cloudflare Workers, Queues, R2, and D1
+- Built **distributed archival pipelines** on AWS Step Functions and Lambda, compressing multi-week jobs into hours
+- Engineered **multi-tenant PIM integration** across BigCommerce, Shopify, and SFCC via Cloudflare Workers
+- Built **DepShield** — AI-powered dependency vulnerability scanner with autonomous PR generation using Google Cloud Agent Builder, Vertex AI, and Elasticsearch
+- Solved **1500+** DSA problems across LeetCode, GFG, CodeStudio, and HackerRank
+- Contributed **150+ PRs** across Hacktoberfest with 5-day average merge velocity
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+      <h3 align="center">🛡️ DepShield</h3>
+      <p align="center">AI-powered dependency vulnerability scanner and autonomous migration agent</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://depshield.hp3.workers.dev">🔗 Live Demo</a> | <a href="https://github.com/HarshitPachori/DepShield">📂 Repo</a>
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+      <h3 align="center">🚗 RideFast</h3>
+      <p align="center">Full-stack ride-sharing platform with Razorpay payments and OTP verification</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://ride-fast.vercel.app">🔗 Live Demo</a> | <a href="https://github.com/HarshitPachori/ride_fast">📂 Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+      <h3 align="center">📓 StoryPath</h3>
+      <p align="center">Journal app with Stanford CoreNLP sentiment analysis and automated weekly reports</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://story-path-nu.vercel.app">🔗 Live Demo</a> | <a href="https://github.com/HarshitPachori/StoryPath">📂 Repo</a>
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
+      <h3 align="center">💬 ClearTalk</h3>
+      <p align="center">High-concurrency real-time chat platform supporting 1000+ concurrent users</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://clear-talk-eight.vercel.app">🔗 Live Demo</a> | <a href="https://github.com/HarshitPachori/ClearTalk">📂 Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPachori&theme=react" width="90%" />
@@ -67,13 +156,15 @@
 
 <table align="center" width="90%">
   <tr>
-    <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&theme=react&hide_border=true&background=0d1117" /></td>
-    <td align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&theme=react&hide_border=true&bg_color=0d1117" /></td>  
-  </tr>
-	 <tr>
-    <td align="center"><img src="https://github-contrib-stats.vercel.app/harshitpachori/created.svg" /></td>
-    <td align="center"><img src="https://github-contrib-stats.vercel.app/harshitpachori/contributed.svg" /></td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=HarshitPachori&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPachori&theme=react&hide_border=true&background=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HarshitPachori&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
+    </td>
   </tr>
 </table>
 
@@ -81,154 +172,48 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitPachori&theme=react-dark&hide_border=true&area=true" width="90%" />
 </div>
 
-<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
-<!-- ## 💻 Hacktoberfest 2022 & 2023 & 2024 Digital Swags collection
-
-[![An image of @harshitpachori's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitpachori)](https://holopin.io/@harshitpachori)
--->
-
- <hr>
-
+---
 
 ## 📟 GitHub Stats
+
 <p align="center">
-<!-- 	<img src="https://stats.quine.sh/HarshitPachori/github?theme=dark"/> -->
-	<img src="https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark"/>
-	<img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark"/>
-<!-- 	<img src="https://stats.quine.sh/HarshitPachori/stack-overflow?theme=dark"/> -->
+  <img src="https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark" />
+  <img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark" />
 </p>
 
-<hr>
+---
 
-<!-- Featured Projects (Showcase) -->
-<h2 align="center" style="color: #58a6ff;">🚀 Featured Projects</h2>
-
-<div align="center">
-  <table width="90%">
-    <tr>
-      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
-        <h3 align="center">📱 Flutter Mobile App</h3>
-        <p align="center">Cross‑platform app with Firebase backend</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        </p>
-        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
-      </td>
-      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
-        <h3 align="center">☕ Spring Boot + React</h3>
-        <p align="center">Full‑stack app with JWT authentication</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
-        <h3 align="center">🐳 Microservices Demo</h3>
-        <p align="center">E‑commerce backend with Docker & Kubernetes</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
-      </td>
-      <td width="50%" style="border: 1px solid #30363d; border-radius: 16px; padding: 16px;">
-        <h3 align="center">🤖 CI/CD Automation</h3>
-        <p align="center">GitHub Actions + TestContainers pipeline</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </p>
-        <p align="center"><a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🧰 Languages and Tools:
-<br>
+## ✉️ Connect With Me
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-	<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-	<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
-	<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" />
-	<img src="https://img.shields.io/badge/Hive-E31337.svg?style=for-the-badge&logo=Hive&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
-	<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google%20AdMob-EA4335.svg?style=for-the-badge&logo=Google-AdMob&logoColor=white" />
-</p>
-
-<p align="center">
-	<img  src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-	<img  src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white"/>
-	<img  src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-	<img  src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
-	<img  src="https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white"/>
-</p>
-
-<hr>
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=c,java,spring,mysql,mongodb,react,redux,tailwind,vite,gradle,maven,hibernate,postgres,cpp,python,flutter,dart,kotlin,firebase,vscode,postman,stackoverflow,androidstudio,netlify,idea,eclipse,html,css,js,nodejs,jquery,bootstrap,git,github,vercel,gitlab,discord,docker,kubernetes,latex,webpack,appwrite,babel,cloudflare,codepen" />
-</p>
-<hr>
-
-## ✉ How to reach me :
-
-<p align="center">
-	<a href="https://github.com/HarshitPachori">
-		<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-	</a>
-	<a href="https://linkedin.com/in/harshitpachori">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/HarshitPachori7">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-	</a>
-	<a href="https://www.facebook.com/harshit.pachori.94">
-		<img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/harshitpachauri345">
-		<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-	</a>
-	<a href="mailto:harshitpachori345@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
-	</a>
+  <a href="https://github.com/HarshitPachori">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/harshitpachori">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://harshitpachoriportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:harshitpachori345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/harshitpachori345">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/harshitpachori">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
-	
+
 ### Show some ❤️ by starring some of the repositories!
+
 ![Snake animation](https://raw.githubusercontent.com/HarshitPachori/HarshitPachori/output/github-contribution-grid-snake.svg)
+
 </div>
-
-
-
-
