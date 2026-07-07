@@ -172,18 +172,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitPachori&theme=react-dark&hide_border=true&area=true" width="90%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshitPachori&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-</div>
+</div> -->
 
 ---
 
-## 📟 GitHub Stats
+## 💻 Leetcode Stats
 
-<p align="center">
-  <img src="https://stats.quine.sh/HarshitPachori/topics-over-time?theme=dark" />
-  <img src="https://stats.quine.sh/HarshitPachori/languages-over-time?theme=dark" />
-</p>
+<div align="center">
+  
+  [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=harshitpachori345&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
+</div>
 
 ---
 
