@@ -178,11 +178,13 @@
 
 ---
 
-## 💻 Leetcode Stats
+## 💻 Problem Solving Stats
 
 <div align="center">
   
   [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=harshitpachori345&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
+  [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/harshitpachori?theme=dark)](https://www.geeksforgeeks.org/profile/harshitpachori)
 
 </div>
 
